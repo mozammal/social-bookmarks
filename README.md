@@ -23,9 +23,9 @@ $ docker-compose down
 
 # The Django social bookamrking home page looks as follows:
 
-![Screenshot](socia-bookmarking.PNG)
+![Screenshot](social-bookmarking.PNG)
 
-![Screenshot](socia-bookmarking1.PNG)
+![Screenshot](social-bookmarking1.PNG)
 
 
 
